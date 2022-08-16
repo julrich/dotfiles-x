@@ -16,3 +16,8 @@ URxvt.tabbed.secondaryScroll: true
 URxvt.tabbed.font: xft:Bitstream Vera Sans Mono:pixelsize=12
 URxvt*depth: 32
 URxvt*background: [90]#000000
+
+!blue
+*color4:     #4293f5
+*color12:    #42f4b9
+
